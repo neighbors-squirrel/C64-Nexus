@@ -62,3 +62,9 @@ Before contributing, please check the [docs/roadmap.md](docs/roadmap.md).
 
 ## License
 Open-source (MIT License). See [LICENSE](LICENSE).
+
+---
+
+ (\_._/)  
+ ( o.o )  < the squirrel keeps the acorn of dreams  
+  > ^ <´
